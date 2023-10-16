@@ -15,4 +15,4 @@ Makerchip is a web-based platform for digital design and development. It provide
 - **RISC-V and Custom Microprocessor Design**: It provides tools for designing custom RISC-V processors or creating entirely new microprocessor architectures.
 - **Code Simulation**: Users can simulate their designs to test functionality and identify potential issues before moving on to the actual hardware implementation.
 - **Collaboration**: Makerchip supports collaborative work, enabling multiple users to work on the same project simultaneously.
-- **Online Platform**: As a web-based tool, Makerchip eliminates the need for users to install and maintain specialized software, making it accessible from various devices with an internet connection.
+- **Online Platform**: As a web-based tool, Makerchip eliminates the need for users to install and maintain specialized software, making it accessible from various devices      with an internet connection.
