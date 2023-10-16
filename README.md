@@ -123,7 +123,7 @@ Makerchip is a web-based platform for digital design and development. It provide
   cat 1to9_custom.c
   cat load.S
   ```
-  
+   
   ### The above commands are used to view the content of the files on terminal
   
   ![Screenshot from 2023-08-21 01-49-31](https://github.com/Shashanksharma280201/PESU-ASIC/assets/79470436/4ec9fd68-5f28-4043-9571-f610346eff63)
