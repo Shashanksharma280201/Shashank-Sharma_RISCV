@@ -1,9 +1,5 @@
 # Shashank-Sharma_RISCV
 
-## First step is to install openlane2
-Follow the steps on my repository [openlane_2_installation](https://github.com/Shashanksharma280201/openlane_2_installation)
-
-
 
 # Makerchip
 
@@ -141,3 +137,34 @@ Makerchip is a web-based platform for digital design and development. It provide
   riscv64-unknown-elf-objdump -d 1to9_custom.o | less
   ```
 </details>
+
+
+<details>
+  <summary> Day 3 - Digital Logic with TL-Verilog and Makerchip </summary>
+  <br>
+</details>
+
+
+<details>
+  <summary> Day 4 - Basic RISC-V CPU micro-architecture </summary>
+  <br>
+</details>
+
+
+<details>
+  <summary> Day 5 - Complete Pipelined RISC-V CPU micro-architecture </summary>
+  <br>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+## Steps to install openlane2
+Follow the steps on my repository [openlane_2_installation](https://github.com/Shashanksharma280201/openlane_2_installation)
