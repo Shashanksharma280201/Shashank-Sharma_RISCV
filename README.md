@@ -142,6 +142,92 @@ Makerchip is a web-based platform for digital design and development. It provide
 <details>
   <summary> Day 3 - Digital Logic with TL-Verilog and Makerchip </summary>
   <br>
+
+## A) Inverter in TLV using command
+
+- under TLV Section type ```$out = ! $in1``` and ```  $out2 = ($in2 ^ $in3) ```
+- Now compile 
+
+## B) Xor gate using operators
+
+![Screenshot from 2023-10-16 22-59-07](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/2346af08-c49a-42f4-8e88-a6c5c6919d54)
+
+## C) Vectors
+
+![Screenshot from 2023-10-16 23-01-45](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/72c8cc28-6392-437c-87f8-b6060dd8a99d)
+
+## D) Mux (with and without vectors)
+
+![Screenshot from 2023-10-16 23-04-17](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/a2b129a8-6e26-46cf-93b9-4e6b668a0d81)
+
+## E) Simple Claculator
+
+![Screenshot from 2023-10-16 23-08-48](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/de1f7fba-7dd2-4cec-b078-21f80302eb71)
+
+## Sequential logic
+
+- **Basic Building Blocks**: Sequential logic blocks are made from digital gates and flip-flops.
+
+- **Information Storage**: They store and process data over time, using the previous state and current input.
+
+- **Stateful Operation**: Sequential logic blocks retain state, unlike combinational logic.
+
+- **Flip-Flops**: Common storage elements in various types, like D, JK, and T flip-flops.
+
+- **Clock Control**: Typically use a clock signal for timing operations.
+
+- **Synchronous/Asynchronous**: Can be synchronous (clock-driven) or asynchronous (not clock-driven).
+
+- **State Machines**: Used for implementing finite state machines (FSMs).
+
+- **Control Logic**: Accompanies sequential blocks to manage data updates and responses.
+
+- **Timing Analysis**: Timing is crucial for proper operation and to avoid hazards.
+
+- **Applications**: Used in various systems, from registers to microprocessors.
+
+
+
+## F) Fibonacci series
+
+![Screenshot from 2023-10-16 23-21-35](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/deb0dbdf-923b-4320-8e6d-0bfafc6a9d8f)
+
+## G) Up-Counter
+
+![Screenshot from 2023-10-16 23-23-01](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/a7e4db08-01b9-40cd-82a6-7c786b5f8c7b)
+
+## H) Sequential Calculator
+
+![Screenshot from 2023-10-16 23-30-14](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/2eddc312-83ee-4809-95a5-a76e232afa00)
+
+## I) A simple pipeline through Pythagorean example
+
+![Screenshot from 2023-10-16 23-35-20](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/7814199c-0273-4f97-aa07-ca9c9aaf158c)
+
+
+## J) Pipeline Implementation example
+
+![Screenshot from 2023-10-16 23-38-54](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/d4a0d454-725e-4949-8124-9d41b076a413)
+
+## Validity 
+- Easier debug
+- cleaner design
+- Better error checking
+- Automated clock gating
+
+## K) 2 cycle calculator with validity
+
+![Screenshot from 2023-10-16 23-51-54](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/2ab65e8c-c456-4ec8-bec7-cfa6f94c5836)
+
+
+## L) Distance Calculator
+
+![Screenshot from 2023-10-17 00-03-01](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/3bafce24-6f6a-42eb-bc32-13dbc1063c8f)
+
+## M) Calulator_memory
+
+![Screenshot from 2023-10-17 00-08-11](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/64a69828-3b1c-4394-880a-6e7b8c2e52b3)
+
 </details>
 
 
