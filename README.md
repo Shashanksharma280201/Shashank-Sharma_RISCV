@@ -235,6 +235,31 @@ Makerchip is a web-based platform for digital design and development. It provide
   <summary> Day 4 - Basic RISC-V CPU micro-architecture </summary>
   <br>
 
+  # Basic RISC-V CPU micro-architecture 
+
+
+- **Load-Store Architecture**: RISC-V uses a load-store architecture, performing operations on registers and loading/storing data separately.
+
+- **Fixed Instruction Length**: Instructions are of fixed length (usually 32 bits), simplifying instruction fetch.
+
+- **Register File**: A small set of general-purpose registers (typically 32) is directly accessible.
+
+- **Reduced Instruction Set**: RISC-V has a simplified, reduced instruction set for straightforward decoding and execution.
+
+- **Pipelining**: RISC-V CPUs often employ pipelining for improved instruction throughput.
+
+- **Memory Hierarchy**: Memory access uses a hierarchy including caches to reduce latency.
+
+- **Branch and Jump Instructions**: Branch and jump instructions control program flow.
+
+- **Single-Cycle Execution**: Many instructions are designed to execute in a single clock cycle.
+
+- **32-bit and 64-bit Variants**: RISC-V supports both 32-bit (RV32) and 64-bit (RV64) instruction set variants.
+
+- **Open Source**: RISC-V is open-source, encouraging collaboration and innovation in processor design.
+
+  
+
   ## 1. Program Counter
 
   ![Screenshot from 2023-10-17 11-31-41](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/c28ce5c1-f01e-4a6f-8f1b-cda8cd9c4f70)
