@@ -302,6 +302,31 @@ Makerchip is a web-based platform for digital design and development. It provide
   ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/6d3f81cc-55c5-4a69-811f-ca55137a8ee9)
 </details>
 
+<details>
+  <summary>Day 5 - </summary>
+  <br>
+
+ ## Redirect Loads
+
+ ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/7a6f572b-d7c7-46af-8886-bb6ada1a4e1b)
+
+ ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/38b821fa-d70b-42b2-b1dd-0408d7ba690b)
+
+
+## Data From Memory to Register File
+
+![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/ed388dd4-ea61-445d-a3e5-90f347154b29)
+
+![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/df35aec0-412a-429d-be1a-8a8dc99abc63)
+
+
+
+
+
+
+
+
+</details>
 
 
 ## Steps to install openlane2
