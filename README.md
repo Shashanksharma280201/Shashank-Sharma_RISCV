@@ -234,6 +234,54 @@ Makerchip is a web-based platform for digital design and development. It provide
 <details>
   <summary> Day 4 - Basic RISC-V CPU micro-architecture </summary>
   <br>
+
+  ## 1. Program Counter
+
+  ![Screenshot from 2023-10-17 11-31-41](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/c28ce5c1-f01e-4a6f-8f1b-cda8cd9c4f70)
+
+
+  ## 2. Instruction Fetch
+
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/2041f022-1dc0-42b3-9b61-aa2d8280ebbc)
+
+  ## 3.Instruction Decode
+
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/28d078c9-85c9-4ee8-82b5-0abd77e5b566)
+
+  ## 4. Instruction Decode with validity
+
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/d6e97580-1b56-446b-adf4-6a242a4d49be)
+
+  ## 5. Individual Instruction decode
+
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/426300dc-859a-4087-9e20-6d3920d805fa)
+
+  ## 6. Register file read
+
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/c95ccaff-ccee-4402-b37b-bbac5dad38a0)
+
+  ## 7. ALU
+ 
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/91bb038b-ad5f-4d79-99b6-dd430013a9d5)
+
+  ## 8. Register File Write
+
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/ef452da7-502d-478b-916c-3b61e9e7ab55)
+
+  ## 9. Branch Instructions
+
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/75347919-6321-4b66-9654-4b525d6250f5)
+
+  ## 10. Testbench to check functionality
+
+  ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/6d3f81cc-55c5-4a69-811f-ca55137a8ee9)
+
+  
+
+
+
+  
+ 
 </details>
 
 
