@@ -303,23 +303,6 @@ Makerchip is a web-based platform for digital design and development. It provide
 </details>
 
 
-<details>
-  <summary> Day 5 - Complete Pipelined RISC-V CPU micro-architecture </summary>
-  <br>
- ## 3-cycle RISCV
- 
-  
-</details>
-
-
-
-
-
-
-
-
-
-
 
 ## Steps to install openlane2
 Follow the steps on my repository [openlane_2_installation](https://github.com/Shashanksharma280201/openlane_2_installation)
