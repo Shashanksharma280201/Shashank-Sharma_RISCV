@@ -300,19 +300,15 @@ Makerchip is a web-based platform for digital design and development. It provide
   ## 10. Testbench to check functionality
 
   ![image](https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/6d3f81cc-55c5-4a69-811f-ca55137a8ee9)
-
-  
-
-
-
-  
- 
 </details>
 
 
 <details>
   <summary> Day 5 - Complete Pipelined RISC-V CPU micro-architecture </summary>
   <br>
+ ## 3-cycle RISCV
+ 
+  
 </details>
 
 
