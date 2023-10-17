@@ -145,7 +145,7 @@ Makerchip is a web-based platform for digital design and development. It provide
 
 ## A) Inverter in TLV using command
 
-- under TLV Section type ```$out = ! $in1``` and ```  $out2 = ($in2 ^ $in3) ```
+- under TLV Section type ```$out = ! $in1```
 - Now compile 
 
 ## B) Xor gate using operators
