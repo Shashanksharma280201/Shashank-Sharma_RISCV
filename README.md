@@ -311,25 +311,25 @@ Makerchip is a web-based platform for digital design and development. It provide
  
  - 3-Cycle Valid Signal
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/41e2f1cf-bccd-4cf4-9488-44af54752bbf" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/41e2f1cf-bccd-4cf4-9488-44af54752bbf" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/bea13ef3-3f61-4eb9-8472-71f744208666" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/bea13ef3-3f61-4eb9-8472-71f744208666" width="600">
 
 
 
 - Taking care of Invalid Cycles
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/76b15832-4e5a-4db4-9164-74fcc186a60b" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/76b15832-4e5a-4db4-9164-74fcc186a60b" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/2c98fa90-fa65-4fe3-b9bf-6f680c1ea606" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/2c98fa90-fa65-4fe3-b9bf-6f680c1ea606" width="600">
 
 
 
 - Modify 3-cycle RISC-V to Distribute Logic
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/1b359689-5e1f-4445-9c57-2795dd381dcf" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/1b359689-5e1f-4445-9c57-2795dd381dcf" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/ebce85f7-1452-4ad1-a8cc-b801b6169e4f" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/ebce85f7-1452-4ad1-a8cc-b801b6169e4f" width="600">
 
 
 
@@ -338,49 +338,49 @@ Makerchip is a web-based platform for digital design and development. It provide
 
 - Register File Bypass
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/2e9c4d22-9907-41a2-abdf-68580b309fdd" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/2e9c4d22-9907-41a2-abdf-68580b309fdd" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/0ae686d6-960c-4ceb-94c1-80fab7a82033" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/0ae686d6-960c-4ceb-94c1-80fab7a82033" width="600">
 
 - Correct Branch Target Path
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/fc7863fc-b5b1-4384-ba6d-83c0bf774a41" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/fc7863fc-b5b1-4384-ba6d-83c0bf774a41" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/1abaad96-3360-4769-a668-402ac66b6929" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/1abaad96-3360-4769-a668-402ac66b6929" width="600">
 
 
 - Complete Instruction Decode
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/75342cbd-2cec-4c1d-bf4b-da1668fed4ee" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/75342cbd-2cec-4c1d-bf4b-da1668fed4ee" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/da07e19f-8e5d-4a93-8df1-fab3f681c198" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/da07e19f-8e5d-4a93-8df1-fab3f681c198" width="600">
 
 - Complete ALU
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/3e5ffd37-2789-4ec9-8f75-18d864d94a94" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/3e5ffd37-2789-4ec9-8f75-18d864d94a94" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/6dbd3734-2668-40a4-932f-9ee078796431" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/6dbd3734-2668-40a4-932f-9ee078796431" width="600">
 
 
 ## Load & Store Instructions and Completing RISC-V CPU
 
 - Redirect Loads
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/04f3e64b-f80f-4d3e-b006-0b9333bfba1d" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/04f3e64b-f80f-4d3e-b006-0b9333bfba1d" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/203d151b-5602-4c8f-af33-dda6903a490d" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/203d151b-5602-4c8f-af33-dda6903a490d" width="600">
 
 - Load Data From Memory to Register File
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/bc40e8e9-b046-4068-95f4-bebce82b1cc0" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/bc40e8e9-b046-4068-95f4-bebce82b1cc0" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/537070d0-3ccb-4186-8b4b-0bc73a8c62df" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/537070d0-3ccb-4186-8b4b-0bc73a8c62df" width="600">
 
 - Instantiate Data Memory to CPU
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/b4a3dd8a-18e9-4d86-9caa-08c9c11c4eb1" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/b4a3dd8a-18e9-4d86-9caa-08c9c11c4eb1" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/541adf63-0e1e-4fc2-91f5-f782d01d8add" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/541adf63-0e1e-4fc2-91f5-f782d01d8add" width="600">
 
 - Add stores and loads to Test program
 
@@ -402,18 +402,18 @@ Makerchip is a web-based platform for digital design and development. It provide
 
 - Jump Instructions
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/b4a3dd8a-18e9-4d86-9caa-08c9c11c4eb1" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/b4a3dd8a-18e9-4d86-9caa-08c9c11c4eb1" width="600">
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/541adf63-0e1e-4fc2-91f5-f782d01d8add" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/541adf63-0e1e-4fc2-91f5-f782d01d8add" width="600">
 
 
 ### Final RISC-V CPU Core Implementation
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/raw/assets/79470436/21823e8d-985e-4961-871d-80ccda450b4b" width="300">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/21823e8d-985e-4961-871d-80ccda450b4b" width="900">
 
 You can compare the code for a RISC-V Core implemented in both TL-Verilog and SystemVerilog by utilizing the "Show Verilog" feature in the Makerchip platform under the 'E' tab. When you visualize the code, you'll notice a substantial decrease in code size on the comparison chart.
 
-<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/d553f7d1-46bb-40aa-bfef-87987955db15" width="400">
+<img src="https://github.com/Shashanksharma280201/Shashank-Sharma_RISCV/assets/79470436/d553f7d1-46bb-40aa-bfef-87987955db15" width="700">
 
 
 
