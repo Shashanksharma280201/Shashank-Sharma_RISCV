@@ -303,7 +303,7 @@ Makerchip is a web-based platform for digital design and development. It provide
 </details>
 
 <details>
-  <summary>Day 5 - </summary>
+  <summary>Day 5 - Complete Pipelined RISC-V CPU micro-architecture </summary>
   <br>
 
  ## Pipelining the CPU
